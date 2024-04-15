@@ -45,7 +45,7 @@ Extiende el concepto de RAG al integrar Pinecone para la gestión de la base de 
 
 Se tuvo que crear un archivo llamado Conocimiento.txt para así utilizar esta información en este desafio
 
-![img_99.png](img/img_99.png)
+![Conocimiento.png](img/Conocimiento.png)
 
 ### Herramientas Utilizadas
 - **Python:** Lenguaje de programación principal.
@@ -82,8 +82,8 @@ py RAGPine.py
 Se crean los vectores automáticamente
 ![img_90.png](img/img_90.png)
 
-Y se vería en su ejecución algo como esto:
-![img_91.png](img/img_91.png)
+Y se vería en su ejecución algo como esto, en donde podemos observar la pregunta y su funcionamiento correcto:
+![Funciona.png](img/Funciona.png)
 Cada script está diseñado para demostrar diferentes aspectos del uso de LangChain, Pinecone y OpenAI en tareas de NLP, mostrando tanto las capacidades básicas como las avanzadas de estas tecnologías en la generación y recuperación de texto.
 
 ### Autor
